@@ -6,3 +6,6 @@
 
 
 [My GitLab](https://gitlab.com/iSaluki)
+
+
+<a rel="me" href="https://fosstodon.org/@saluki">Mastodon</a>
