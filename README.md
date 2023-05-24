@@ -7,5 +7,7 @@
 
 [My GitLab](https://gitlab.com/iSaluki)
 
+Currently looking to contribute to FOSS projects on their own platforms, slowly moving away from GitHub except where nescessary.
+
 
 <a rel="me" href="https://fosstodon.org/@saluki">Mastodon</a>
